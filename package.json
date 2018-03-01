@@ -1,0 +1,11 @@
+{
+  "name": "google-hash-code-2018",
+  "version": "0.0.1",
+  "description": "Submission for the 2018 Google Hash Code Challenge.",
+  "main": "index.js",
+  "author": "Norman Steger",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^22.4.2"
+  }
+}
